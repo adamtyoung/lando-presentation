@@ -6,4 +6,5 @@
 * allows you to store lando file in repo and simply `lando start`                                                               
 * automate build steps               
 * has lots of _recipes_ for common apps (like Drupal)
+* knows about all the tools that Drupal developers need and installs them as tooling (drush, composer, etc)
                                                                                                                                 
