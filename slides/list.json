@@ -4,8 +4,8 @@
     "vagrant-vs-docker.md",
     "docker-hangups.md",
     [
-    "enter-lando.md",
-    "enter-lando-2.md"
+        "enter-lando.md",
+        "enter-lando-2.md"
     ],
     "lando-requirements.md",
     "demo-one.md",
